@@ -1,0 +1,17 @@
+C:\Users\Uživatel\Desktop\programko\ukola01_binarni\ukola01_binarni\bin\Debug\net6.0-windows\ukola01_binarni.exe
+C:\Users\Uživatel\Desktop\programko\ukola01_binarni\ukola01_binarni\bin\Debug\net6.0-windows\ukola01_binarni.deps.json
+C:\Users\Uživatel\Desktop\programko\ukola01_binarni\ukola01_binarni\bin\Debug\net6.0-windows\ukola01_binarni.runtimeconfig.json
+C:\Users\Uživatel\Desktop\programko\ukola01_binarni\ukola01_binarni\bin\Debug\net6.0-windows\ukola01_binarni.dll
+C:\Users\Uživatel\Desktop\programko\ukola01_binarni\ukola01_binarni\bin\Debug\net6.0-windows\ukola01_binarni.pdb
+C:\Users\Uživatel\Desktop\programko\ukola01_binarni\ukola01_binarni\obj\Debug\net6.0-windows\ukola01_binarni.csproj.AssemblyReference.cache
+C:\Users\Uživatel\Desktop\programko\ukola01_binarni\ukola01_binarni\obj\Debug\net6.0-windows\ukola01_binarni.Form1.resources
+C:\Users\Uživatel\Desktop\programko\ukola01_binarni\ukola01_binarni\obj\Debug\net6.0-windows\ukola01_binarni.csproj.GenerateResource.cache
+C:\Users\Uživatel\Desktop\programko\ukola01_binarni\ukola01_binarni\obj\Debug\net6.0-windows\ukola01_binarni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uživatel\Desktop\programko\ukola01_binarni\ukola01_binarni\obj\Debug\net6.0-windows\ukola01_binarni.AssemblyInfoInputs.cache
+C:\Users\Uživatel\Desktop\programko\ukola01_binarni\ukola01_binarni\obj\Debug\net6.0-windows\ukola01_binarni.AssemblyInfo.cs
+C:\Users\Uživatel\Desktop\programko\ukola01_binarni\ukola01_binarni\obj\Debug\net6.0-windows\ukola01_binarni.csproj.CoreCompileInputs.cache
+C:\Users\Uživatel\Desktop\programko\ukola01_binarni\ukola01_binarni\obj\Debug\net6.0-windows\ukola01_binarni.dll
+C:\Users\Uživatel\Desktop\programko\ukola01_binarni\ukola01_binarni\obj\Debug\net6.0-windows\refint\ukola01_binarni.dll
+C:\Users\Uživatel\Desktop\programko\ukola01_binarni\ukola01_binarni\obj\Debug\net6.0-windows\ukola01_binarni.pdb
+C:\Users\Uživatel\Desktop\programko\ukola01_binarni\ukola01_binarni\obj\Debug\net6.0-windows\ukola01_binarni.genruntimeconfig.cache
+C:\Users\Uživatel\Desktop\programko\ukola01_binarni\ukola01_binarni\obj\Debug\net6.0-windows\ref\ukola01_binarni.dll
